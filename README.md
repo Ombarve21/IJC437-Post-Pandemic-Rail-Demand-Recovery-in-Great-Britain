@@ -15,10 +15,10 @@ This project investigates how rail passeneger demand across Great Britain has re
 - Structural factors dominate over fare-based explanations.
 
 # Repository Structure
-- data/ - Cleaned datasets used in the analysis
-- scripts/ - R scripts organised by research question
-- figures/ - Final figures used in the report
-- instructions.md/ - Instructionsfor running the analysis
+- data - Cleaned datasets used in the analysis
+- scripts - R scripts organised by research question
+- figures - Final figures used in the report
+- instructions.md - Instructions for running the analysis
 
 ## Instructions for running the code
 Please refer to 'instructions.md' for software requirements and execution steps.
